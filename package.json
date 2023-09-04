@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cheerio": "^1.0.0-rc.12",
+    "install": "^0.13.0",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "js telegram bot shedule",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vladislav676",
+  "license": "ISC"
+}
